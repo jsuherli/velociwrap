@@ -6,25 +6,9 @@
 ### Janette Suherli (c)2026. 
 ### jsuherli@gmail.com
 
-
 from .cube import Cube
-from .velocity import (
-    c_kms,
-    wavelength_to_velocity,
-    velocity_to_wavelength,
-    wavenumber_to_wavelength,
-    wavelength_to_wavenumber,
-    frequency_to_velocity,
-    velocity_to_frequency,
-    velocity_to_kms,
-    make_velocity_bins,
-)
-from .channel_maps import (
-    make_channel_maps,
-    make_rgb_channel_maps,
-    make_integrated_map,
-    velocity_bin_table,
-)
+from .velocity import c_kms, wavelength_to_velocity, velocity_to_wavelength, wavenumber_to_wavelength, wavelength_to_wavenumber, frequency_to_velocity, velocity_to_frequency, velocity_to_kms, make_velocity_bins
+from .channel_maps import make_channel_maps, make_rgb_channel_maps, make_integrated_map, velocity_bin_table
 from .plotting import plot_channel_grid, plot_rgb_channel_grid
 from .io import save_channel_maps_fits, save_rgb_components_fits
 from .animation import save_channel_animation, save_rgb_channel_animation
