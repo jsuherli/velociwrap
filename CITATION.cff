@@ -4,7 +4,7 @@ title: "Velociwrap: velocity-consistent channel-map workflows for astronomical d
 authors:
   - family-names: Suherli
     given-names: Janette
-version: 1.0.0b0
+version: 1.0.0
 date-released: 2026-06-08
 repository-code: "https://github.com/jsuherli/velociwrap"
 license: MIT
