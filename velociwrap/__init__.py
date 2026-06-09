@@ -13,9 +13,9 @@ from .plotting import plot_channel_grid, plot_rgb_channel_grid
 from .io import save_channel_maps_fits, save_rgb_components_fits
 from .animation import save_channel_animation, save_rgb_channel_animation
 from .pv import PVDiagram, extract_pv, plot_pv, add_pv_slit
-from .demo import load_demo_cube, list_demo_cubes, get_demo_region_file
+#from .demo import load_demo_cube, list_demo_cubes, get_demo_region_file
 
-__version__ = "1.0.0b0"
+__version__ = "1.0.0"
 
 __all__ = [
     "Cube",
