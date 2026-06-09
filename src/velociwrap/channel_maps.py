@@ -16,7 +16,7 @@ from scipy.interpolate import interp1d
 
 from matplotlib.colors import to_rgb
 
-from .velocity import wavelength_to_velocity, velocity_to_wavelength, frequency_to_velocity, velocity_to_frequency, make_velocity_bins,
+from .velocity import wavelength_to_velocity, velocity_to_wavelength, frequency_to_velocity, velocity_to_frequency, make_velocity_bins
 from .scaling import normalize_image
 
 
