@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use Velociwrap, please cite this software."
+title: "Velociwrap: velocity-consistent channel-map workflows for astronomical datacubes"
+authors:
+  - family-names: Suherli
+    given-names: Janette
+version: 1.0.0b0
+date-released: 2026-06-08
+repository-code: "https://github.com/jsuherli/velociwrap"
+license: MIT
