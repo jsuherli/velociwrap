@@ -57,3 +57,8 @@ plt.show()
 
 More example with detailed explanations of all `velociwrap` capabilities will be available in the upcoming documentation. 
 
+
+## Citation
+
+If you use Velociwrap, please consider citing the GitHub/Zenodo release. A `CITATION.cff` file is included in this repo.
+
