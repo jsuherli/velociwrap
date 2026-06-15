@@ -62,6 +62,6 @@ More example with detailed explanations of all `velociwrap` capabilities will be
 
 If you use Velociwrap, please consider citing the GitHub/Zenodo release. A `CITATION.cff` file is included in this repo.
 
-'''
+```
 Suherli, J. (2026). velociwrap: velocity-consistent (pseudo-RGB) channel maps for astronomical datacubes (v1.0.0). Zenodo. [https://doi.org/10.5281/zenodo.20604383](https://doi.org/10.5281/zenodo.20604383)
-'''
+```
